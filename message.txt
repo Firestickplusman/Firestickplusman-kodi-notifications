@@ -1,7 +1,11 @@
 # Firestickplusman-kodi-notifications
-8
+9
 |||
 To get Firesitckplusman products at unbelievable prices visit us https://www.firestickplusman.com/
+
+I now have a Chromecast builds that will work with your Google Chromecast. Make sure if you are using my app not to use Krypton builds.
+
+New update for FSPMxxx and FSPMnoxxx builds and Krypton build. 
 
 I have new Krypton builds available for Koid 17!!!!!! Please dont try to install these builds on Kodi 16.1 and if you are not sure what version of Kodi you are running. Then dont try these builds. 
 
